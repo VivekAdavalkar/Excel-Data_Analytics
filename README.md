@@ -6,7 +6,7 @@ Project to demonstrate Excel Skills
 
 This dashboard analyses median salary, top job platform and job count all together specifically for selected job title, country and type.  
 
-[Checkout my work here]()  
+[Checkout my work here](Project_1-DASHBOARD)  
 
 ![DASHBOARD](https://github.com/user-attachments/assets/15f3adcf-1814-4f8e-bccd-18405957acf2)  
 
